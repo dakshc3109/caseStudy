@@ -23,6 +23,21 @@ img{
     grid-template-columns: auto auto;
 }
 
+#grid2 { 
+    display: grid; 
+    grid-template-columns: auto auto;
+}
+
+#grid3 { 
+    display: grid; 
+    grid-template-columns: auto auto;
+}
+
+#grid4 { 
+    display: grid; 
+    grid-template-columns: auto auto;
+}
+
 #grid1 { 
     display: grid; 
     grid-template-columns: auto auto;
